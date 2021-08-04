@@ -1,1 +1,1 @@
-# DemoHDRPProceduralAnimation
+# DemoProceduralAnimation
